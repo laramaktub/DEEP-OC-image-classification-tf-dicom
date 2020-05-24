@@ -1,6 +1,6 @@
 {
-    "title": "Train an image classifier",
-    "summary": "Train your own image classifier with your custom dataset. It comes also pretrained on the 1K ImageNet classes.",
+    "title": "Chest x-ray image classifier",
+    "summary": "Classify chest x-ray images in patological and non patological with this x-ray classifier.",
     "description": [
         "The deep learning revolution has brought significant advances in a number of fields [1], primarily linked to",
         "image and speech recognition. The standardization of image classification tasks like the [ImageNet Large Scale",
